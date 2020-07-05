@@ -13,7 +13,6 @@
     "aws-sdk": "^2.5.3",
     "bluebird": "^3.4.3",
     "event-stream": "^3.3.4",
-    "heapdump": "^0.3.7",
     "memwatch-next": "^0.3.0",
     "mongodb": "^2.2.8",
     "mongodb-promises": "^0.2.0",
